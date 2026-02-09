@@ -1,7 +1,5 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Excel, PowerBI
-
 ## Education
   B.Sc. in Computer and Communication Engineering | Alexandria University | 2021–2026
 
