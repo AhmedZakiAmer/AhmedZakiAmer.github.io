@@ -1,3 +1,5 @@
+# Data Analyst
+
 ## Education
   B.Sc. in Computer and Communication Engineering | Alexandria University | 2021–2026
 
