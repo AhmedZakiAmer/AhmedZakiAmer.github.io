@@ -1,7 +1,7 @@
 # Ahmed Zaki
 ### Data Analyst
 
-Turning raw data into clear, actionable insights — with Python, SQL, and Power BI.
+Turning raw data into clear, actionable insights with Python, SQL, and Power BI.
 
 📍 Alexandria, Egypt &nbsp;|&nbsp; ahmed525zaki@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmedzakiamer) &nbsp;|&nbsp; +20 1017502510
 
@@ -23,15 +23,15 @@ Collaborated within a research team on a mobility data analysis project for the 
 
 **Contoso Retail DW** *(Ongoing)*
 Designing a large-scale Power BI model (30M+ rows, 11 fact & 11 dimension tables) using mixed storage modes (DirectQuery, Import, Dual) and star schemas per fact table, with DAX measures in development.
-🔗 [Project link](#)
+🔗 [Project link](https://github.com/AhmedZakiAmer/Data_Analysis_projects/tree/main/Contoso%20project/PowerBI%20composite)
 
 **Retail Analysis (Contoso)**
 Analyzed 15K+ retail sales records (2016–2019) in Excel and Power BI, restructuring the data into a star schema with DAX measures to build 3 interactive dashboards for the CEO, Sales Manager, and Product Manager — revealing a **-9.4% revenue decline** from 2017 to 2018 and identifying Asia (particularly China) as a key growth market.
-🔗 [Project link](#)
+🔗 [Project link](https://github.com/AhmedZakiAmer/Data_Analysis_projects/tree/main/Project%201)
 
 **Fakka — Graduation Project**
 Led a team of 4 to build a personal finance tracker for income/expense tracking and budget management. Designed the database schema in PostgreSQL (via Supabase) and built backend features supporting the app's core functionality, plus automation workflows in n8n (including WhatsApp notification flows).
-🔗 [Fakka website](#)
+🔗 [Fakka website](https://finance-tracker-personal-cc60be1f4e60.herokuapp.com/homenav/home)
 
 **Smoking Status**
 Conducted data analysis and engineered features to extract key health-related insights.
@@ -41,8 +41,6 @@ Explored, manipulated, and visualized data using multiple libraries to extract a
 
 **California Houses**
 Loaded and cleaned housing data, checked for nulls, and applied a Linear Regression model to predict prices.
-
-> 💡 *Replace the `#` links above with the actual URLs to your Fakka site and Power BI/GitHub project pages.*
 
 ---
 
