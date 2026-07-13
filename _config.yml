@@ -1,3 +1,8 @@
 title: Ahmed Zaki
-
+description: Data Analyst — Python, SQL, Power BI & Machine Learning portfolio
 theme: jekyll-theme-cayman
+
+# SEO / social metadata (used by jekyll-seo-tag if enabled in your repo's Gemfile)
+author: Ahmed Zaki
+url: "https://ahmedzaki525.github.io"   # update to your actual GitHub Pages URL
+lang: en
